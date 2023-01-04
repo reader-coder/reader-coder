@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JavaScript, Python**
 
-- 📫 How to reach me **rahul.2.prsnl@gmail.com**
+- 📫 How to reach me **rahulr.web@aol.com**
 
 <img src="https://www.codewars.com/users/reader_coder/badges/large">
 
