@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Raj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Material UI and NextJS**
+- 🌱 I’m currently learning **AWS and Kubernetes**
 
 - 📝 I regularly write articles on [https://theescapistreader.wordpress.com/](https://theescapistreader.wordpress.com/)
 
